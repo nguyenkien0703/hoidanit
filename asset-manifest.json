@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hoidanit/static/css/main.6eefa866.css",
+    "main.js": "/hoidanit/static/js/main.35952b53.js",
+    "static/js/646.95af5445.chunk.js": "/hoidanit/static/js/646.95af5445.chunk.js",
+    "static/media/logo.svg": "/hoidanit/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/hoidanit/index.html",
+    "main.6eefa866.css.map": "/hoidanit/static/css/main.6eefa866.css.map",
+    "main.35952b53.js.map": "/hoidanit/static/js/main.35952b53.js.map",
+    "646.95af5445.chunk.js.map": "/hoidanit/static/js/646.95af5445.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eefa866.css",
+    "static/js/main.35952b53.js"
+  ]
+}
